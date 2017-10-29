@@ -1,5 +1,5 @@
 # AtomicPlus
-# fork from https://github.com/rfyiamcool/AtomicPlus
+fork from https://github.com/rfyiamcool/AtomicPlus
 # notice
 `Not support multiprocessing, because multi process has each signal memory space !`
 
