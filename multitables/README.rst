@@ -1,4 +1,6 @@
 fork from https://github.com/ghcollin/tftables/blob/master/tftables.py
+=======
+
 `multitables <https://github.com/ghcollin/multitables>`_ is a python library designed for high speed access to HDF5 files.
 Access to HDF5 is provided by the PyTables library (``tables``).
 Multiple processes are launched to read a HDF5 in parallel, allowing concurrent decompression.
